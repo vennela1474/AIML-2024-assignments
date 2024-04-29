@@ -7,3 +7,4 @@
 # Assignment-8:https://colab.research.google.com/drive/14CRruE9oztjCQVEnt-qdUGNNhnXXTCBl#scrollTo=JRlMz3nFAEBu
 # Assignment-9: https://github.com/vennela1474/AIML-2024-assignments/blob/main/assignment-9/assignment9.ipynb
 # Assignment-10: https://github.com/vennela1474/AIML-2024-assignments/blob/main/assignment-10/assignment10.ipynb
+# Assignment-11: https://github.com/vennela1474/AIML-2024-assignments/blob/main/assignment-11/Assignment_11.ipynb
